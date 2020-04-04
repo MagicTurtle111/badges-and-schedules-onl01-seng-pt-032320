@@ -4,7 +4,7 @@ def badge_maker(name)
   
 end
 
-def batch_badge_cretor(array)
+def batch_badge_creator(array)
   array.collect do |attendee|
     badge_maker(attendee)
   end
