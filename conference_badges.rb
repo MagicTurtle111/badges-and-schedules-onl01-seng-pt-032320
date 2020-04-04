@@ -6,4 +6,5 @@ end
 
 def batch_badge_cretor(array)
   array.collect do |attendee|
+    #
   
